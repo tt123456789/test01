@@ -1,2 +1,2 @@
 package com.niit;
-public void test02(){}
+public class test02(){}
